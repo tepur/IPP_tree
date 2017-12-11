@@ -1,0 +1,1 @@
+Implementation of tree-like data structure, which uses doubly linked list; most operations are executed in constant time.
